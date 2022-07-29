@@ -1,0 +1,18 @@
+.footer{
+    height: 250px;
+}
+.social-link{
+    margin-top: 2.5em;
+}
+
+.social-link i{
+    font-size: 30px;
+    color: #DFDFE1;
+    margin-right: 20px;
+}
+.social-link i:hover{
+    color: brown;
+}
+.footer-heading{
+    color: brown;
+}
